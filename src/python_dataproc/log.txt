@@ -1,0 +1,5 @@
+2022-06-23 11:51:28,182 - pcm project - INFO - data frame created and null value validation done
+2022-06-23 11:51:42,230 - pcm project - INFO - data frame created and null value validation done
+2022-06-23 11:53:05,826 - pcm project - INFO - data frame created and null value validation done
+2022-06-23 11:54:18,412 - pcm project - INFO - data frame created and null value validation done
+2022-06-23 11:55:37,566 - pcm project - INFO - data frame created and null value validation done
